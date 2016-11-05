@@ -1,6 +1,8 @@
 import math
 import random
+
 # sorting by comparisons
+# can't achieve better than O*log(O)
 
 # insertion sort:
 def insertion_sort(l):
